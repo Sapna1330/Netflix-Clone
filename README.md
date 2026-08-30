@@ -10,4 +10,4 @@ A responsive Netflix-inspired web application designed to recreate the look and 
 * Interactive navigation and content cards
 * Clean and modern layout
 
-**Technologies:** HTML | CSS | JavaScript
+**Technologies:** HTML | CSS | 
